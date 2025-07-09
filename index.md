@@ -143,3 +143,5 @@ Educational Use: Ideal for workshops, classroom training, and security awareness
 Project start* > preliminary coordination with the OWASP Education Committee* > complete working model of game* > coordination with the OWASP Top Ten team and OWASP Top Ten Proactive Controls team > refine working model of game > determine desired license > partner with a Game Manufacturer/Fulfillment Vendor > explore Educational Distribution Channels > launch with Minimal Risk via Print-on-Demand Platforms > pilot via Kickstarter or OWASP Chapters.
 
 * - Completed
+
+![image](https://github.com/user-attachments/assets/c958c63f-e0f6-480c-8998-d76bf1a8e87c)
