@@ -69,7 +69,7 @@ Gameplay Overview:
 * If the attack is successful, the TA player discards the attacking TA card and the defending player discards their failed defensive card, and the TA player moves to the next phase as described in the Attack Progression section. 
 
 * If the attack is not successful, the TA player discards the attacking TA card and the defending player discards their successful defensive DC card and the attack round ends. The attack role now switches player. 
- 
+
 Card Draw Rules:
 
 At the start of each attack round:
