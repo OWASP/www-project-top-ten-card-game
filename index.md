@@ -41,7 +41,7 @@ Deck Composition:
 * Joker Wildcards: The black Joker card represents TA Black Hat malicious activities, and the red Joker card represents DC White Hat defense processes and tools. The number of Jokers depends on the selected game mode.
 
 * OWASP modified playing cards: OWASP provides modified poker cards to enhance game play and learning experience. These cards are about the same size as the standard poker card (2.5 x 3.5 inches) and the card backs show the OWASP logo. In addition, the card faces carry OWASP copyrighted images designed to enhance game play. Similar to a standard poker card deck, the numbered cards (Ace through 10) are printed with the card suit and number in the upper left corner with a mirror image in the bottom right corner. The suit images found within the body of a standard poker card are replaced with a brief description of the Top 10 risk (Heart and Diamond cards) and the Top 10 Proactive Control (Spade and Club cards). The OWASP modified decks can be used for standard poker card play. 
- 
+
 Steps for Game Setup:
 
 1. Remove the face cards and jokers from the card decks.
