@@ -85,7 +85,7 @@ At the start of each attack round:
 * If there are insufficient cards in the attacking player’s TA draw deck, they may elect to “reboot” their TA deck by combining the TA discard pile with their hand, shuffle and deal themselves 5 (or 7) cards placing the remaining cards in the TA draw card stack position. The cost of performing a “reboot” is to add one damage count to any TA face card of their choice.
 
 * If there are insufficient cards in the defending player’s DC draw deck, they may elect to “reboot” their DC deck by combining the DC discard pile with their hand, shuffle and deal themselves 5 (or 7) cards placing the remaining cards in the DC draw card stack position. The cost of performing a “reboot” is to add one damage count to any DC face card of their choice.
- 
+
 Attack Progression:
 
 * Observation: The first attack on a face-card DC asset. If the exploit is successful, the card is turned face up.
