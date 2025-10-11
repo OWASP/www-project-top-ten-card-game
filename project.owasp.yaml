@@ -1,0 +1,20 @@
+audience:
+  - breaker
+  - builder
+leaders:
+  - name: Dennis Johnson
+    email: dennis.johnson@owasp.org
+    github: OWASPSGU
+level: 2
+name: OWASP Top Ten Card Game
+pitch: A very brief, one-line description of your project
+repositories:
+  - name: www-project-top-ten-card-game
+    url: https://github.com/OWASP/www-project-top-ten-card-game
+    description: OWASP Foundation web repository
+tags:
+  - example-tag
+  - custom-tag-1
+  - custom-tag-2
+type: documentation
+website: https://owasp.org/www-project-top-ten-card-game
