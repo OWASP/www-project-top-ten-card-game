@@ -12,7 +12,7 @@ pitch: A very brief, one-line description of your project
 OWASP Top Ten Card Game
 Background and Rules
 
-The OWASP Top 10 Card Game is an educational card game designed to help novice students learn about web application security, specifically by using the OWASP Top 10 — a widely recognized list of the top ten most critical web application security risks published by the Open Web Application Security Project (OWASP).
+The OWASP Top 10 Card Game is an educational card game designed to help novice students learn about web application security, specifically by using the OWASP Top 10 — a widely recognized list of the top ten most critical web application security risks published by the Open Worldwide Application Security Project (OWASP).
 
 The game is easy to learn and designed to introduce risk concepts of the OWASP Top Ten and the best practices control concepts of the OWASP Top Ten Proactive Controls at a novice level in an environment that reflects a sense of realism and excitement. 
 
